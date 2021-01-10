@@ -1,4 +1,4 @@
-# Template2D-Unity202015f1
+# weihnachtsspiel-As_Chriskindl-sber
 
 ### Project description: 
 Introduction/Project summary 
@@ -25,4 +25,4 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by Simon Berger

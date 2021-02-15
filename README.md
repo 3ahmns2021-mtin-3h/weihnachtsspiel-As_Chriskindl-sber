@@ -1,13 +1,13 @@
 # weihnachtsspiel-As_Chriskindl-sber
 
 ### Project description: 
-Introduction/Project summary 
+A game currently about a brown rectangle (Christkindl) that has do fly over the chimneys of Austria and has to doge snowballs
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Windows, Unity Version 2020.15.f1, Visual Studio 2019
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL, ref,res 960px x 600px, Screen Independent
 
 ### Visuals: 
 Screenshots (concept and experience), Video
@@ -16,10 +16,10 @@ Screenshots (concept and experience), Video
 Installation process, e.g. step by step instructions that I can run the project after cloning it
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+PlayerController by Brackeys
 
 ### Project state: 
-incl. progress in percent
+coding, rough blockout, no speedboost yet
 
 ### Limitations: 
 
